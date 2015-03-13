@@ -1,6 +1,6 @@
 # dotakey
 dota hotkey on windows
 
-[download](./dest/DotAKey 2.1.7.exe)
+[download](https://raw.githubusercontent.com/vivaxy/dotakey/master/dest/DotAKey 2.1.7.exe)
 
-[!guide](./doc/DotAKey 2.jpg)
+![guide](https://raw.githubusercontent.com/vivaxy/dotakey/master/doc/DotAKey 2.jpg)
